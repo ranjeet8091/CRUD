@@ -1,0 +1,16 @@
+Folder Create-----
+Create a folder Name Mern full stack
+1)Backend
+2)Frontend
+
+In Backend use command (npm init )
+in front we use npx Create-react-app
+if we want to iniate in same folder than we can use .
+
+
+
+
+
+
+After creating Navbar component with bootstrap
+we have install npm i react-router-dom
