@@ -29,6 +29,7 @@ router.get("/", async(req,res)=>{
     const showAll= await User.find();
     try{
         res.status(200).json(showAll);
+        
     }
     catch(error){
         console.log(error)
